@@ -3,8 +3,8 @@ package org.git;
 public class GitLocal {
 	
 	private void tc1() {
-		System.out.println("test case 1");
-
+		System.out.println("B");
+		
 	}
 
 	private void tc2() {
