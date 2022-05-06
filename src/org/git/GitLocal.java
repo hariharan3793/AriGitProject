@@ -4,7 +4,8 @@ public class GitLocal {
 	
 	private void tc1() {
 		System.out.println("test case 1");
-
+		System.out.println("A");
+		
 	}
 
 	private void tc2() {
